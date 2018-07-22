@@ -1,7 +1,7 @@
 <?php
 
 // creates url and loads core controller
-// URL format : /controller/method/params
+// URL format : /Pages/Index/jemoeder
 
 class Core
 {
